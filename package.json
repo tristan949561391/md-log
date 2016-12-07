@@ -1,0 +1,27 @@
+{
+  "name": "md-log",
+  "version": "1.0.0",
+  "description": "save log by mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristan949561391/md-log.git"
+  },
+  "keywords": [
+    "mongoose",
+    "log",
+    "save"
+  ],
+  "author": "tristan949561391@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tristan949561391/md-log/issues"
+  },
+  "homepage": "https://github.com/tristan949561391/md-log#readme",
+  "dependencies": {
+    "moongoose": "0.0.5"
+  }
+}
