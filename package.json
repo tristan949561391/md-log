@@ -1,6 +1,6 @@
 {
   "name": "md-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "save log by mongoose",
   "main": "index.js",
   "scripts": {
