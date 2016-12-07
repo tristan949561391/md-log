@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/tristan949561391/md-log.git"
   },
+
   "keywords": [
     "mongoose",
     "log",
